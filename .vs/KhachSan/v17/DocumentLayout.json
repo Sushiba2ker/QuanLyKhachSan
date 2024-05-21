@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|c:\\users\\bao\\downloads\\pbl3_winformmanager-main\\khachsan\\all user control\\uc_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_piechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_piechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_piechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_piechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_piechart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_piechart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\dashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\dashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\khachsan\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB5A54-5E83-404D-9B18-C71A7DF6DA6D}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\Program.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Program.cs",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\Program.cs",
+              "RelativeToolTip": "KhachSan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:27:29.8Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_.Designer.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_.Designer.cs",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_.Designer.cs",
+              "RelativeToolTip": "KhachSan\\All User Control\\UC_.Designer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:40:49.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_AddRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_AddRoom.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_AddRoom.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_AddRoom.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_AddRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:25:34.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_CustomerDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CustomerDetails.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_CustomerDetails.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CustomerDetails.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CustomerDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:25:38.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_.cs",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_.cs",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_.cs",
+              "RelativeToolTip": "KhachSan\\All User Control\\UC_.cs",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAAAIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:17:30.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_PieChart.cs",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_PieChart.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_PieChart.cs",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_PieChart.cs",
+              "RelativeToolTip": "KhachSan\\All User Control\\UC_PieChart.cs",
+              "ViewState": "AQIAAEUAAAAAm5mZmRkjwFIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:05:15.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_.cs",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_.cs [Design]",
+              "RelativeToolTip": "KhachSan\\All User Control\\UC_.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:51:46.29Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_CustomerRes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CustomerRes.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_CustomerRes.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CustomerRes.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CustomerRes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:04:36.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_Employee.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_Employee.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_Employee.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:26:55.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_PieChart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_PieChart.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_PieChart.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_PieChart.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_PieChart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:04:37.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_PieChart.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_PieChart.Designer.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_PieChart.Designer.cs",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_PieChart.Designer.cs",
+              "RelativeToolTip": "KhachSan\\All User Control\\UC_PieChart.Designer.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAmwM8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:46:24.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_CheckOut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CheckOut.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_CheckOut.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CheckOut.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CheckOut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:25:36.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_AddRoom.cs",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_AddRoom.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_AddRoom.cs",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_AddRoom.cs",
+              "RelativeToolTip": "KhachSan\\All User Control\\UC_AddRoom.cs",
+              "ViewState": "AQIAABMAAAAAbGZmZuYtwHQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:38:05.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\App.config",
+              "RelativeDocumentMoniker": "KhachSan\\App.config",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\App.config",
+              "RelativeToolTip": "KhachSan\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-20T13:03:26.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UC_CheckOut.cs",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CheckOut.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_CheckOut.cs",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CheckOut.cs",
+              "RelativeToolTip": "KhachSan\\All User Control\\UC_CheckOut.cs",
+              "ViewState": "AQIAAIoAAAAAoP//////v5kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:56:04.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_CustomerRes.cs",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CustomerRes.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_CustomerRes.cs",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CustomerRes.cs",
+              "RelativeToolTip": "KhachSan\\All User Control\\UC_CustomerRes.cs",
+              "ViewState": "AQIAABEAAACAX2ZmZmYTwFQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:09:14.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\Form1.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:44:14.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_CustomerDetails.cs",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CustomerDetails.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_CustomerDetails.cs",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_CustomerDetails.cs",
+              "RelativeToolTip": "KhachSan\\All User Control\\UC_CustomerDetails.cs",
+              "ViewState": "AQIAAAwAAACgAAAAAAAxwBkAAABZAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:35:54.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\Dashboard.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\Dashboard.cs",
+              "RelativeToolTip": "KhachSan\\Dashboard.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAwwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:07:06.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\Dashboard.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Administrator\\Desktop\\PBL3_WinformManager-main\\KhachSan\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:07:04.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UC_Employee.cs",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_Employee.cs",
+              "RelativeDocumentMoniker": "KhachSan\\All User Control\\UC_Employee.cs",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\All User Control\\UC_Employee.cs",
+              "RelativeToolTip": "KhachSan\\All User Control\\UC_Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:00:58.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dashboard.resx",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\Dashboard.resx",
+              "RelativeDocumentMoniker": "KhachSan\\Dashboard.resx",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\Dashboard.resx",
+              "RelativeToolTip": "KhachSan\\Dashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-19T13:44:10.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\bao\\Downloads\\PBL3_WinformManager-main\\KhachSan\\Dashboard.Designer.cs",
+              "RelativeToolTip": "KhachSan\\Dashboard.Designer.cs",
+              "ViewState": "AQIAADoBAAAALjMzMzMZwHcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:54:36.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
